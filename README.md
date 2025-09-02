@@ -1,4 +1,4 @@
-# Gait_Variability_Is_Associated_With_Gray_Matter_Volumes_Implicated_in_Cognitive_Function:_A_Cross-Sectional_Analysis_From_the_AGUEDA_Trial
+# Gait Variability Is Associated With Gray Matter Volumes Implicated in Cognitive Function: A Cross-Sectional Analysis From the AGUEDA Trial
 
 #AGUEDA TRIAL
 
